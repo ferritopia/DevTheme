@@ -9,6 +9,7 @@ A simple, clean, minimalist theme, featuring content-focused design and single-c
 
 ## What's in this fork
 * Add share to whatsapp button
+* Support for Indonesian translation
 
 ## Changelog
 
