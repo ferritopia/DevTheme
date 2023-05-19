@@ -1,0 +1,27 @@
+{
+  "theme-data": {
+    "name": "DevTheme",
+    "description": "Tema sederhana, rapih, minimalis, menampilkan desain yang berfokus pada konten dan tata letak kolom tunggal."
+  },
+  "menu": "Menu",
+  "blog": "Blog",
+  "continue-reading": "Lanjutkan membaca",
+  "type-to-start-searching": "Ketik untuk mulai mencari",
+  "search": "Cari",
+  "latest-posts": "Postingan terbaru",
+  "related-posts": "Postingan terkait",
+  "you-haven't-yet-saved-any-bookmarks-to-bookmark-a-post-just-click": "Anda belum menyimpan bookmark apa pun. Untuk menandai postingan, cukup klik",
+  "latest-tweets": "Tweet Terbaru",
+  "newsletter": "Buletin",
+  "subscribe-to-receive-our-latest-news": "Berlangganan untuk menerima postingan terbaru kami.",
+  "find-us-on": "Temukan kami di",
+  "pages": "Halaman",
+  "powered-by": "Didukung oleh",
+  "search-page": "Halaman pencarian",
+  "newer": "Terbaru",
+  "older": "Terlama",
+  "search-results-for": "Hasil pencarian untuk",
+  "load-more-posts": "Muat lebih banyak postingan",
+  "nothing-found-for": "Tidak ada hasil untuk",
+  "search-term-too-short": "Pencarian terlalu pendek"
+}
