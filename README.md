@@ -7,6 +7,9 @@ A simple, clean, minimalist theme, featuring content-focused design and single-c
 
 [Live Demo](https://blthemes.pp.ua/devtheme/)
 
+## What's in this fork
+* Add share to whatsapp button
+
 ## Changelog
 
 v3.8.1  
